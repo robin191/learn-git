@@ -26,3 +26,5 @@ React的设计从一开始就逐步采用，**您可以根据需要使用尽可�
     function  HelloMessage({name}){
         return <div> Hello{name}</div>;
     }
+
+    <>
